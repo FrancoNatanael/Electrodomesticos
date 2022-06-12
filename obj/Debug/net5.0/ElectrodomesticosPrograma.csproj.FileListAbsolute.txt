@@ -1,0 +1,16 @@
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\bin\Debug\net5.0\ElectrodomesticosPrograma.exe
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\bin\Debug\net5.0\ElectrodomesticosPrograma.deps.json
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\bin\Debug\net5.0\ElectrodomesticosPrograma.runtimeconfig.json
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\bin\Debug\net5.0\ElectrodomesticosPrograma.runtimeconfig.dev.json
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\bin\Debug\net5.0\ElectrodomesticosPrograma.dll
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\bin\Debug\net5.0\ref\ElectrodomesticosPrograma.dll
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\bin\Debug\net5.0\ElectrodomesticosPrograma.pdb
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\obj\Debug\net5.0\ElectrodomesticosPrograma.csproj.AssemblyReference.cache
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\obj\Debug\net5.0\ElectrodomesticosPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\obj\Debug\net5.0\ElectrodomesticosPrograma.AssemblyInfoInputs.cache
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\obj\Debug\net5.0\ElectrodomesticosPrograma.AssemblyInfo.cs
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\obj\Debug\net5.0\ElectrodomesticosPrograma.csproj.CoreCompileInputs.cache
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\obj\Debug\net5.0\ElectrodomesticosPrograma.dll
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\obj\Debug\net5.0\ref\ElectrodomesticosPrograma.dll
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\obj\Debug\net5.0\ElectrodomesticosPrograma.pdb
+C:\Users\fnt\source\repos\ElectrodomesticosPrograma\obj\Debug\net5.0\ElectrodomesticosPrograma.genruntimeconfig.cache
